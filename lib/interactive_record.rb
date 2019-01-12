@@ -22,4 +22,6 @@ def self.column_names
   column_names.compact
 end  
   
+  
+  
 end
