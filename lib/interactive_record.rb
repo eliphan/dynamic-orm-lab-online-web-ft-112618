@@ -27,5 +27,7 @@ def initialize(options={})
     self.send("#{property}=", value)
   end
 end  
+
+
   
 end
